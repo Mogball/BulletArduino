@@ -1,3 +1,3 @@
-# BulletArduino
+# BulletSpout
 
-Bullet topology for streaming data from Arduino
+Template project for a Bullet Spout.
