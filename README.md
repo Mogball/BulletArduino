@@ -1,3 +1,3 @@
-# Bullet-Storm Example
+# BulletArduino
 
-This example generates fake data in a Spout and converts it into a Bullet Record for use in an example.
+Bullet topology for streaming data from Arduino
